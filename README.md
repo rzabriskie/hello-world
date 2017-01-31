@@ -5,3 +5,9 @@ Initial github repo. Will try to avoid paying any money :-)
 # RSZ
 ## one
 ## two
+## Three is added within Intellij IDEA via the github integration
+
+
+
+
+** Just testing in intellij!!!
